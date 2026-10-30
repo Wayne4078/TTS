@@ -1,0 +1,6 @@
+{
+  "name": "골든벨 퀴즈 명진행자 TTS 스튜디오",
+  "description": "50~60대 시청자가 사랑하는 베테랑 TV 퀴즈쇼 진행자의 따뜻하고 힘찬 아나운서 목소리로 듣는 명쾌한 퀴즈 멘트 TTS 스튜디오",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
